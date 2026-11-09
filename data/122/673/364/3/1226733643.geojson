@@ -61,7 +61,7 @@
         "wk:page":"Buceo"
     },
     "wof:country":"UY",
-    "wof:geomhash":"ba9440ddda6ba1ed94d97e223b937dae",
+    "wof:geomhash":"07251240bb49dc7d6886660ec9ff813b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,5 +87,5 @@
     -56.13333000000001,
     -34.9
 ],
-  "geometry": {"coordinates":[-56.13333000000001,-34.9],"type":"Point"}
+  "geometry": {"coordinates":[-56.13333,-34.9],"type":"Point"}
 }

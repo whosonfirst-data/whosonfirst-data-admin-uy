@@ -64,7 +64,7 @@
         "wk:page":"Cainsa"
     },
     "wof:country":"UY",
-    "wof:geomhash":"fdaaca13f3f62a8ef0b41c301579ac8a",
+    "wof:geomhash":"879d42a14696001225aa693fcbd9fbc3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -57.61513000000001,
     -30.38704
 ],
-  "geometry": {"coordinates":[-57.61513000000001,-30.38704],"type":"Point"}
+  "geometry": {"coordinates":[-57.61513,-30.38704],"type":"Point"}
 }

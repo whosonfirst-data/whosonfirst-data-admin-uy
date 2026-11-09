@@ -65,7 +65,7 @@
         "wk:page":"Mendoza_Chico"
     },
     "wof:country":"UY",
-    "wof:geomhash":"2f6d8f3fe92d5ff1af12ed9c9a4f050e",
+    "wof:geomhash":"1c2a043e5344f172ceedc9447edebd4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -56.21666999999999,
     -34.23755
 ],
-  "geometry": {"coordinates":[-56.21666999999999,-34.23755],"type":"Point"}
+  "geometry": {"coordinates":[-56.21667,-34.23755],"type":"Point"}
 }

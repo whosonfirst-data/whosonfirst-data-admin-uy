@@ -64,7 +64,7 @@
         "wk:page":"Conchillas"
     },
     "wof:country":"UY",
-    "wof:geomhash":"d475e7fef4cb75baf7594e93a07a984d",
+    "wof:geomhash":"132ecd0a77ae7357f1c0869d65703c74",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -58.03393000000001,
     -34.16477
 ],
-  "geometry": {"coordinates":[-58.03393000000001,-34.16477],"type":"Point"}
+  "geometry": {"coordinates":[-58.03393,-34.16477],"type":"Point"}
 }

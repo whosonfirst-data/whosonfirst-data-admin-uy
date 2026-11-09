@@ -65,7 +65,7 @@
         "wk:page":"El_Eucaliptus"
     },
     "wof:country":"UY",
-    "wof:geomhash":"af9aec90d0d617ad423cc51fb4b5cd87",
+    "wof:geomhash":"011b56022a3cdc1ee491a0db03dd58e2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -57.26289000000001,
     -31.89896
 ],
-  "geometry": {"coordinates":[-57.26289000000001,-31.89896],"type":"Point"}
+  "geometry": {"coordinates":[-57.26289,-31.89896],"type":"Point"}
 }

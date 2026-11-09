@@ -74,7 +74,7 @@
         "wk:page":"Cerro_Chato"
     },
     "wof:country":"UY",
-    "wof:geomhash":"06b0f06853f6709bdcd83ded8a0ad2a8",
+    "wof:geomhash":"94314c09d1a92db9bb41e0261dd62619",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,5 +99,5 @@
     -55.13333000000001,
     -33.1
 ],
-  "geometry": {"coordinates":[-55.13333000000001,-33.1],"type":"Point"}
+  "geometry": {"coordinates":[-55.13333,-33.1],"type":"Point"}
 }

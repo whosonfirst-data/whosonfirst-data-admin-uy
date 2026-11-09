@@ -58,7 +58,7 @@
         "wk:page":"Costa_Azul"
     },
     "wof:country":"UY",
-    "wof:geomhash":"5d45c73da51ce0fc190b5843c5ab4b6d",
+    "wof:geomhash":"700be13bdff09d7d752fa8eff47993b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -55.6588,
     -34.76524000000001
 ],
-  "geometry": {"coordinates":[-55.6588,-34.76524000000001],"type":"Point"}
+  "geometry": {"coordinates":[-55.6588,-34.76524],"type":"Point"}
 }

@@ -41,7 +41,7 @@
         "wk:page":"Los_Cerros_de_San_Juan"
     },
     "wof:country":"UY",
-    "wof:geomhash":"b5089be1fe3f1a707ef6d8a30ef99a74",
+    "wof:geomhash":"5db7e5867da8a149af64d0abed222840",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,5 +66,5 @@
     -57.93073,
     -34.21870999999999
 ],
-  "geometry": {"coordinates":[-57.93073,-34.21870999999999],"type":"Point"}
+  "geometry": {"coordinates":[-57.93073,-34.21871],"type":"Point"}
 }

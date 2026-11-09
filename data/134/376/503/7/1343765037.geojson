@@ -61,7 +61,7 @@
         "wk:page":"Villa_Argentina"
     },
     "wof:country":"UY",
-    "wof:geomhash":"7ff4d804eda3339edaac8007b5500fdd",
+    "wof:geomhash":"668d62da8bbcfb5cca81340a606c1d14",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,5 +87,5 @@
     -55.77566,
     -34.76815999999999
 ],
-  "geometry": {"coordinates":[-55.77566,-34.76815999999999],"type":"Point"}
+  "geometry": {"coordinates":[-55.77566,-34.76816],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"19_de_Abril"
     },
     "wof:country":"UY",
-    "wof:geomhash":"72f3d1b93de039b15415d5a0ac24c8f9",
+    "wof:geomhash":"63be4e1db88b8bc004f19f7b1ba6ae66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -71,5 +71,5 @@
     -54.06718000000001,
     -34.3628
 ],
-  "geometry": {"coordinates":[-54.06718000000001,-34.3628],"type":"Point"}
+  "geometry": {"coordinates":[-54.06718,-34.3628],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"General_Enrique_Mart%C3%ADnez"
     },
     "wof:country":"UY",
-    "wof:geomhash":"cd7ce18ea249ff599b11c61234b4cf18",
+    "wof:geomhash":"78941730a42183f43b34c7293ecfca06",
     "wof:hierarchy":[
         {
             "country_id":85632511,
@@ -93,5 +93,5 @@
     -53.80524000000001,
     -33.20388
 ],
-  "geometry": {"coordinates":[-53.80524000000001,-33.20388],"type":"Point"}
+  "geometry": {"coordinates":[-53.80524,-33.20388],"type":"Point"}
 }

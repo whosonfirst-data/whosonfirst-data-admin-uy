@@ -64,7 +64,7 @@
         "wk:page":"Ram%C3%B3n_Trigo"
     },
     "wof:country":"UY",
-    "wof:geomhash":"9abf311d7534266bebe6886f71802959",
+    "wof:geomhash":"e6ffbfa78e479a0839ef0eb454aee3b9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,5 +89,5 @@
     -54.63733000000001,
     -32.34864
 ],
-  "geometry": {"coordinates":[-54.63733000000001,-32.34864],"type":"Point"}
+  "geometry": {"coordinates":[-54.63733,-32.34864],"type":"Point"}
 }

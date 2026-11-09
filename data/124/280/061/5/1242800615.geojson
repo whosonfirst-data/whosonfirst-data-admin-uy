@@ -67,7 +67,7 @@
         "wk:page":"San_Jorge%2C_Uruguay"
     },
     "wof:country":"UY",
-    "wof:geomhash":"e46d1bc2435d1103f68bcf108befa722",
+    "wof:geomhash":"3a268d1708101087de7861897c064096",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -92,5 +92,5 @@
     -55.89621999999999,
     -32.84236
 ],
-  "geometry": {"coordinates":[-55.89621999999999,-32.84236],"type":"Point"}
+  "geometry": {"coordinates":[-55.89622,-32.84236],"type":"Point"}
 }

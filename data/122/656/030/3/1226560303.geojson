@@ -58,7 +58,7 @@
         "wk:page":"Pe%C3%B1arol%2C_Montevideo"
     },
     "wof:country":"UY",
-    "wof:geomhash":"fa66e9a128cdc030713b4e5d8980c144",
+    "wof:geomhash":"7eb82c8dd038ab6499939da9b834fdfe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -56.18333000000001,
     -34.81667
 ],
-  "geometry": {"coordinates":[-56.18333000000001,-34.81667],"type":"Point"}
+  "geometry": {"coordinates":[-56.18333,-34.81667],"type":"Point"}
 }

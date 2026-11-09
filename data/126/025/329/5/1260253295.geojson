@@ -52,7 +52,7 @@
         "wk:page":"La_Aguada_y_Costa_Azul"
     },
     "wof:country":"UY",
-    "wof:geomhash":"bfffe9e5e3875c60da6231e3afa1cd62",
+    "wof:geomhash":"0dd07b886b408bf0a316a311917bc03e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -54.15306999999999,
     -34.62925
 ],
-  "geometry": {"coordinates":[-54.15306999999999,-34.62925],"type":"Point"}
+  "geometry": {"coordinates":[-54.15307,-34.62925],"type":"Point"}
 }

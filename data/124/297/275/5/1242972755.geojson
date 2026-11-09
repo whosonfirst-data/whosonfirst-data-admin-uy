@@ -70,7 +70,7 @@
         "wk:page":"Pl%C3%A1cido_Rosas"
     },
     "wof:country":"UY",
-    "wof:geomhash":"4db3ccaa6f8916a688a56d9a28cf1788",
+    "wof:geomhash":"9eaf69460ddcd59f54e638bada2642f5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,5 +95,5 @@
     -53.71763000000001,
     -32.75533
 ],
-  "geometry": {"coordinates":[-53.71763000000001,-32.75533],"type":"Point"}
+  "geometry": {"coordinates":[-53.71763,-32.75533],"type":"Point"}
 }

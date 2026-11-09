@@ -76,7 +76,7 @@
         "wk:page":"Fraile_Muerto"
     },
     "wof:country":"UY",
-    "wof:geomhash":"6a47e1f018b6b35017202db1de4470bc",
+    "wof:geomhash":"55281f0e25a842b26ec8d903343c3606",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,5 +101,5 @@
     -54.53333000000001,
     -32.51667
 ],
-  "geometry": {"coordinates":[-54.53333000000001,-32.51667],"type":"Point"}
+  "geometry": {"coordinates":[-54.53333,-32.51667],"type":"Point"}
 }

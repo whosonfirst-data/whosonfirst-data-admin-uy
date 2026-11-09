@@ -61,7 +61,7 @@
         "wk:page":"Gregorio_Azn%C3%A1rez"
     },
     "wof:country":"UY",
-    "wof:geomhash":"b3fb2d58ff7f479decaf316407f763e3",
+    "wof:geomhash":"1347060184d9fc9ee8682d174c56071a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,5 +87,5 @@
     -55.39673000000001,
     -34.74657
 ],
-  "geometry": {"coordinates":[-55.39673000000001,-34.74657],"type":"Point"}
+  "geometry": {"coordinates":[-55.39673,-34.74657],"type":"Point"}
 }

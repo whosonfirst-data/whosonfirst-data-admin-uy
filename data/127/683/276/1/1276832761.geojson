@@ -62,7 +62,7 @@
         "wk:page":"Paso_del_Cerro"
     },
     "wof:country":"UY",
-    "wof:geomhash":"91365ee54446b9505f940a28bb43f7a6",
+    "wof:geomhash":"ab5a29720648ea0d148b1cae1c2c8f16",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,5 +87,5 @@
     -55.83318000000001,
     -31.47818
 ],
-  "geometry": {"coordinates":[-55.83318000000001,-31.47818],"type":"Point"}
+  "geometry": {"coordinates":[-55.83318,-31.47818],"type":"Point"}
 }

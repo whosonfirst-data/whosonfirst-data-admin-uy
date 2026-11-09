@@ -68,7 +68,7 @@
         "wk:page":"Miguelete%2C_Uruguay"
     },
     "wof:country":"UY",
-    "wof:geomhash":"b2393b78c48b40c6d15663a8e0ea79f5",
+    "wof:geomhash":"44c3ef225d67b57fc156f9762c07ff9b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,5 +93,5 @@
     -57.64791999999999,
     -34.00646
 ],
-  "geometry": {"coordinates":[-57.64791999999999,-34.00646],"type":"Point"}
+  "geometry": {"coordinates":[-57.64792,-34.00646],"type":"Point"}
 }

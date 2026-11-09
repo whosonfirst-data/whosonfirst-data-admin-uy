@@ -99,7 +99,7 @@
         "gn:id":3442603
     },
     "wof:country":"UY",
-    "wof:geomhash":"0af57cbc3085aa2e98d5ee0d00a6a315",
+    "wof:geomhash":"c5012e85bcde82604367f3087af07ec7",
     "wof:hierarchy":[
         {
             "country_id":85632511,
@@ -122,5 +122,5 @@
     -56.95623000000001,
     -31.10191
 ],
-  "geometry": {"coordinates":[-56.95623000000001,-31.10191],"type":"Point"}
+  "geometry": {"coordinates":[-56.95623,-31.10191],"type":"Point"}
 }

@@ -41,7 +41,7 @@
         "gn:id":3443945
     },
     "wof:country":"UY",
-    "wof:geomhash":"12a3ac936083a51ec99d748174f54b7c",
+    "wof:geomhash":"4e852634d6bcbc6e66064ec5990d7ca3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -66,5 +66,5 @@
     -54.43333000000001,
     -33.53333
 ],
-  "geometry": {"coordinates":[-54.43333000000001,-33.53333],"type":"Point"}
+  "geometry": {"coordinates":[-54.43333,-33.53333],"type":"Point"}
 }

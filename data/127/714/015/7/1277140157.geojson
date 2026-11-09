@@ -66,7 +66,7 @@
         "wk:page":"Tambores"
     },
     "wof:country":"UY",
-    "wof:geomhash":"ada20ac16fda62d6d15ed5d28918e516",
+    "wof:geomhash":"c25b31b4a4d214269fda67460c8a587c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -92,5 +92,5 @@
     -56.24438000000001,
     -31.87743
 ],
-  "geometry": {"coordinates":[-56.24438000000001,-31.87743],"type":"Point"}
+  "geometry": {"coordinates":[-56.24438,-31.87743],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Ocean_Park%2C_Uruguay"
     },
     "wof:country":"UY",
-    "wof:geomhash":"6e2564a11f0581dfcd6337ebed7700a5",
+    "wof:geomhash":"08e088f5925049d1978b677aa23eacbc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -55.11515,
     -34.86895999999999
 ],
-  "geometry": {"coordinates":[-55.11515,-34.86895999999999],"type":"Point"}
+  "geometry": {"coordinates":[-55.11515,-34.86896],"type":"Point"}
 }

@@ -69,7 +69,7 @@
         "wk:page":"Andresito%2C_Uruguay"
     },
     "wof:country":"UY",
-    "wof:geomhash":"b88c8e76377214be46f8b2c7068302b4",
+    "wof:geomhash":"9da4d4abc5af957d0a5b979d934900b1",
     "wof:hierarchy":[
         {
             "country_id":85632511,
@@ -92,5 +92,5 @@
     -57.12846999999999,
     -33.16831
 ],
-  "geometry": {"coordinates":[-57.12846999999999,-33.16831],"type":"Point"}
+  "geometry": {"coordinates":[-57.12847,-33.16831],"type":"Point"}
 }

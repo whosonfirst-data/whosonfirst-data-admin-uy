@@ -59,7 +59,7 @@
         "wk:page":"Ituzaing%C3%B3%2C_Montevideo"
     },
     "wof:country":"UY",
-    "wof:geomhash":"4834b12431469839b7e98160a2019fe4",
+    "wof:geomhash":"c52e3dd62b3c3f2622b6d7521a927503",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,5 +85,5 @@
     -56.11666999999999,
     -34.85
 ],
-  "geometry": {"coordinates":[-56.11666999999999,-34.85],"type":"Point"}
+  "geometry": {"coordinates":[-56.11667,-34.85],"type":"Point"}
 }
